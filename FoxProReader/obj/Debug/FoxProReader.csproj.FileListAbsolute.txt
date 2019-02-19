@@ -1,0 +1,10 @@
+D:\Viktor\-= Навчання =-\other\FoxProReader\FoxProReader\bin\Debug\FoxProReader.exe.config
+D:\Viktor\-= Навчання =-\other\FoxProReader\FoxProReader\bin\Debug\FoxProReader.exe
+D:\Viktor\-= Навчання =-\other\FoxProReader\FoxProReader\bin\Debug\FoxProReader.pdb
+D:\Viktor\-= Навчання =-\other\FoxProReader\FoxProReader\obj\Debug\FoxProReader.csprojResolveAssemblyReference.cache
+D:\Viktor\-= Навчання =-\other\FoxProReader\FoxProReader\obj\Debug\FoxProReader.Form1.resources
+D:\Viktor\-= Навчання =-\other\FoxProReader\FoxProReader\obj\Debug\FoxProReader.Properties.Resources.resources
+D:\Viktor\-= Навчання =-\other\FoxProReader\FoxProReader\obj\Debug\FoxProReader.csproj.GenerateResource.cache
+D:\Viktor\-= Навчання =-\other\FoxProReader\FoxProReader\obj\Debug\FoxProReader.csproj.CoreCompileInputs.cache
+D:\Viktor\-= Навчання =-\other\FoxProReader\FoxProReader\obj\Debug\FoxProReader.exe
+D:\Viktor\-= Навчання =-\other\FoxProReader\FoxProReader\obj\Debug\FoxProReader.pdb
